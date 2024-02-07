@@ -1,6 +1,3 @@
-'''
-    Practice Linear Search in Python. Learn the gist in JavaScript from course, but translate it into Python
-'''
 from typing import List
 
 def linear_search(haystack: List[int], needle: int) -> bool:
